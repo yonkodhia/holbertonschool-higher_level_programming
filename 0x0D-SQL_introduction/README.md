@@ -1,2 +1,1 @@
-SQL intro 
-...first step for my dream
+SQL intro ...first step for my dream
